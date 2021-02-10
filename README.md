@@ -1,0 +1,1 @@
+# smittestopp_data_model
