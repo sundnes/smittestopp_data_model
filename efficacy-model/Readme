@@ -1,4 +1,5 @@
 # Readme
 
-This folder contains the time series of contact aggregates that was used in the paper for estimating the technological tracing efficacy.
-The 
+contacts-breakdown.csv contains the time series of contact aggregates that was used in the paper for estimating the technological tracing efficacy.
+
+
